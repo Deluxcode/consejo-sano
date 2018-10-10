@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #04c7d7;
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        fill: #3d4c6d;
+      }
+
+      .c {
+        fill: #fc4f80;
+      }
+    </style>
+  </defs>
+  <title>Our services_icons</title>
+  <g>
+    <circle class="a" cx="50" cy="50" r="45"/>
+    <path class="b" d="M50,59A11,11,0,1,1,61,48,11,11,0,0,1,50,59ZM28.92,33.33H28V62.67H72V33.33H28.92Z"/>
+    <path class="b" d="M28,64.5v4.58a.92.92,0,0,0,.92.92H40.83V64.5H28Z"/>
+    <path class="b" d="M42.67,70H57.33V64.5H42.67Z"/>
+    <path class="b" d="M59.17,64.5V70H71.08a.92.92,0,0,0,.92-.92V64.5H59.17Z"/>
+    <path class="c" d="M55,47.18l-7.33-3.67a.92.92,0,0,0-1.33.82v7.33a.92.92,0,0,0,1.33.82L55,48.82a.92.92,0,0,0,0-1.64"/>
+  </g>
+</svg>
